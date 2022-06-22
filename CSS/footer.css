@@ -1,0 +1,9 @@
+footer {
+    align-items: center;
+    text-align:center;
+    font-style: italic;
+    color: #fff;
+    border-top: 20px;
+    width: 100%;
+    height: 30px;
+}
